@@ -3,9 +3,9 @@
 
 title: Lukas Peters
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  Personal Blog.
 baseurl: "/bay" # the subpath of the site
-url: "www.lukasmpeters.com" # the base hostname & protocol for the site
+# url: "www.lukasmpeters.com" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 
 header:
