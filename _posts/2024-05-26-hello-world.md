@@ -10,6 +10,6 @@ og_image: /assets/img/content/hello-world/first-post-banner.jpg
 <br />
 <br />
 
-This is a test blog post.
+This is a simple blog post to make sure it works.
 <br />
 Picture by [Bethany Legg](https://unsplash.com/@bkotynski).
