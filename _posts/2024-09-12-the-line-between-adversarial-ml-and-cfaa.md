@@ -3,9 +3,9 @@ layout: post
 title:  "The Line Between Adversarial ML and CFAA"
 date:   2024-09-12 13:37:00
 blurb: "The Line Between Adversarial ML and CFAA"
-og_image: /assets/img/content/adversarial-ml.jpg
+og_image: /assets/img/content/adversarial-ml.png
 ---
-<img src="{{ "/assets/img/content/adversarial-ml.jpg" | absolute_url }}" class="post-pic"/>
+<img src="{{ "/assets/img/content/adversarial-ml.png" | absolute_url }}" class="post-pic"/>
 <br />
 
 # Background
