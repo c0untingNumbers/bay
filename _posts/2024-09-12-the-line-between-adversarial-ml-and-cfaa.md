@@ -9,7 +9,7 @@ og_image: /assets/img/content/adversarial-ml.png
 <br />
 
 ## Background
-I wrote and presented this blog post for my PUBL-363 Cyber Security Policy and Law class. 
+I wrote and presented this blog post for my PUBL-363 Cyber Security Policy and Law class at Rochester Institute of Technology in the Fall semester of 2024. 
 ## Introduction
 # CAAA and CFAA
 The Computer Fraud And Abuse Act (CFAA) was enacted in 1986 as part of the Comprehensive Crime Control Act (CCCA) passed by Congress in 1984. The CFAA introduced one of the earliest federal computer crime statutes which covered the conduct of a person who “accesses a computer without authorization, or, with authorization, uses the opportunity such access provides to obtain information beyond the scope of that authorization.”
